@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  LINK : 最後的累加連結找不到或未建置 ..\..\temp\debug\lab3.exe，正在執行完整連結
+  lab3.vcxproj -> C:\Users\88696\Dropbox\我的電腦 (LAPTOP-SVUIPIGO)\Desktop\Ch6_Lab3\lab3\lab3\..\..\temp\debug\lab3.exe
